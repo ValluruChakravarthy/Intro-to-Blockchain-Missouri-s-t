@@ -1,0 +1,91 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyODXSIXHHY61d02e/9sHvY8",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/ValluruChakravarthy/FreeCodeCamp-Solutions/blob/main/MyFIrstCollabNotebook.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "import time\n",
+        "print(time.ctime())"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "9etGL_AEMakF",
+        "outputId": "cdc51325-2f66-41e5-d01c-fa4059622389"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Tue Jan 23 21:22:23 2024\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "This is **bold**.\n",
+        "This is *italic*.\n",
+        "This is ~strikethrough~.\n",
+        "  "
+      ],
+      "metadata": {
+        "id": "Db-bZ-8YuNiU"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "$\\sqrt{3x-1}+(1+x)^2$"
+      ],
+      "metadata": {
+        "id": "jbtNW1zUuSIY"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "$e^x = \\sum_{i = 0}^\\infty \\frac{1}{i!}x^i$"
+      ],
+      "metadata": {
+        "id": "X-JepAS8ubHU"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "bjVqbDoHucAi"
+      }
+    }
+  ]
+}
